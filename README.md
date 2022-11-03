@@ -1,2 +1,2 @@
 # KataBank
-Project KataBank
+KataBank for testing 
